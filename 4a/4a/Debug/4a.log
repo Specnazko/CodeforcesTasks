@@ -1,0 +1,3 @@
+﻿  4a.cpp
+d:\study c++\4a\4a\4a.cpp(8): warning C4804: '<': unsafe use of type 'bool' in operation
+d:\study c++\4a\4a\4a.cpp(8): error C4700: uninitialized local variable 'm' used

@@ -1,0 +1,3 @@
+﻿  4a.cpp
+d:\study c++\4a\4a\4a.cpp(9): warning C4804: '<': unsafe use of type 'bool' in operation
+  4a.vcxproj -> D:\Study C++\4a\x64\Debug\4a.exe
